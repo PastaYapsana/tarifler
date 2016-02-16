@@ -1,2 +1,0 @@
-# tarifler
-Harika Pasta Tarifleri
